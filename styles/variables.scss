@@ -1,0 +1,8 @@
+$primary-1: #f4f4f4;
+
+$secondary-1: rgba(0, 0, 0, 0.62);
+
+:export {
+  primaryColor: $primary-1;
+  secondaryColor: $secondary-1;
+}

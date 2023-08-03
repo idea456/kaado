@@ -1,0 +1,45 @@
+.container {
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.62);
+    margin: 0;
+    display: grid;
+    grid-template-columns: 5% auto 5% 5%;
+
+    .item {
+        border-right: 1px solid rgba(0, 0, 0, 0.62);
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #fbd166;
+            color: white;
+        }
+
+        .icon {
+            display: flex;
+            width: 1.6rem;
+            height: 1.6rem;
+        }
+
+        .search-bar {
+            background-color: transparent;
+            width: 100%;
+            padding: 1.2rem;
+            border: none;
+            caret-color: $secondary-1;
+            font-size: 16px;
+
+            &:focus {
+                outline: none;
+            }
+        }
+
+        &:last-child {
+            border-right: none;
+        }
+    }
+}

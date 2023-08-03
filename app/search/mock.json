@@ -1,0 +1,516 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": [
+        {
+            "slug": "坂",
+            "is_common": true,
+            "tags": ["wanikani15"],
+            "jlpt": ["jlpt-n4"],
+            "japanese": [
+                {
+                    "word": "坂",
+                    "reading": "さか"
+                },
+                {
+                    "word": "阪",
+                    "reading": "さか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["slope", "incline", "hill"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["milestone", "(age) mark"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["e.g. 60の坂"]
+                },
+                {
+                    "english_definitions": ["Grade (slope)"],
+                    "parts_of_speech": ["Wikipedia definition"],
+                    "links": [
+                        {
+                            "text": "Read “Grade (slope)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Grade_(slope)?oldid=489312876"
+                        },
+                        {
+                            "text": "Read “坂” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/坂?oldid=42271076"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Grade_(slope)"
+            }
+        },
+        {
+            "slug": "茶菓",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "茶菓",
+                    "reading": "さか"
+                },
+                {
+                    "word": "茶菓",
+                    "reading": "ちゃか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["tea and cakes", "refreshments"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "逆-1",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "逆",
+                    "reading": "さか"
+                },
+                {
+                    "word": "倒",
+                    "reading": "さか"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["inverse", "reverse"],
+                    "parts_of_speech": ["Noun, used as a prefix", "Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "魚",
+            "is_common": true,
+            "tags": ["wanikani7"],
+            "jlpt": ["jlpt-n3", "jlpt-n5"],
+            "japanese": [
+                {
+                    "word": "魚",
+                    "reading": "さかな"
+                },
+                {
+                    "word": "魚",
+                    "reading": "うお"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["fish"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "盛ん",
+            "is_common": true,
+            "tags": [],
+            "jlpt": ["jlpt-n4"],
+            "japanese": [
+                {
+                    "word": "盛ん",
+                    "reading": "さかん"
+                },
+                {
+                    "word": "旺ん",
+                    "reading": "さかん"
+                },
+                {
+                    "word": "壮ん",
+                    "reading": "さかん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["prosperous", "flourishing", "thriving", "successful"],
+                    "parts_of_speech": ["Na-adjective (keiyodoshi)"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["popular", "widespread"],
+                    "parts_of_speech": ["Na-adjective (keiyodoshi)"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["active", "lively", "energetic", "vigorous", "brisk", "strong"],
+                    "parts_of_speech": ["Na-adjective (keiyodoshi)"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["enthusiastic", "eager", "hearty", "frequent", "repeated"],
+                    "parts_of_speech": ["Na-adjective (keiyodoshi)"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "逆立ち",
+            "is_common": true,
+            "tags": [],
+            "jlpt": ["jlpt-n1"],
+            "japanese": [
+                {
+                    "word": "逆立ち",
+                    "reading": "さかだち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["handstand", "headstand"],
+                    "parts_of_speech": ["Noun", "Suru verb"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["being upside down", "being in reverse"],
+                    "parts_of_speech": ["Noun", "Suru verb"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["Handstand"],
+                    "parts_of_speech": ["Wikipedia definition"],
+                    "links": [
+                        {
+                            "text": "Read “Handstand” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Handstand?oldid=493976150"
+                        },
+                        {
+                            "text": "Read “逆立ち” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/逆立ち?oldid=38813891"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Handstand"
+            }
+        },
+        {
+            "slug": "盛り",
+            "is_common": true,
+            "tags": [],
+            "jlpt": ["jlpt-n3"],
+            "japanese": [
+                {
+                    "word": "盛り",
+                    "reading": "さかり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "height (e.g. of summer)",
+                        "peak (e.g. of cherry blossom season)",
+                        "(in) season",
+                        "full bloom",
+                        "full swing (of a party, etc.)"
+                    ],
+                    "parts_of_speech": ["Noun", "Noun, used as a suffix"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["ざかり when used as a suffix"]
+                },
+                {
+                    "english_definitions": ["prime (of one's life)", "(one's) best days", "bloom"],
+                    "parts_of_speech": ["Noun", "Noun, used as a suffix"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": ["(being in) heat", "rut"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "境",
+            "is_common": true,
+            "tags": ["wanikani24"],
+            "jlpt": ["jlpt-n3"],
+            "japanese": [
+                {
+                    "word": "境",
+                    "reading": "さかい"
+                },
+                {
+                    "word": "界",
+                    "reading": "さかい"
+                },
+                {
+                    "word": "境",
+                    "reading": "きょう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["border", "boundary"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["usu. さかい"]
+                },
+                {
+                    "english_definitions": ["turning point", "watershed"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": ["さかい"],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["often ...を境に"]
+                },
+                {
+                    "english_definitions": ["area", "region", "spot", "space", "environment"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["usu. きょう"]
+                },
+                {
+                    "english_definitions": ["psychological state", "mental state"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": ["usu. きょう"]
+                },
+                {
+                    "english_definitions": ["cognitive object", "something perceptible by the sense organs or mind"],
+                    "parts_of_speech": ["Noun"],
+                    "links": [],
+                    "tags": ["Buddhism"],
+                    "restrictions": ["きょう"],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "逆らう",
+            "is_common": true,
+            "tags": ["wanikani28"],
+            "jlpt": ["jlpt-n3"],
+            "japanese": [
+                {
+                    "word": "逆らう",
+                    "reading": "さからう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["to go against", "to oppose", "to disobey", "to defy"],
+                    "parts_of_speech": ["Godan verb with u ending", "Intransitive verb"],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "逆さ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": ["jlpt-n2"],
+            "japanese": [
+                {
+                    "word": "逆さ",
+                    "reading": "さかさ"
+                },
+                {
+                    "word": "倒さ",
+                    "reading": "さかさ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": ["inverted", "upside down", "reversed", "back to front"],
+                    "parts_of_speech": [
+                        "Noun which may take the genitive case particle 'no'",
+                        "Na-adjective (keiyodoshi)",
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": ["Abbreviation"],
+                    "restrictions": [],
+                    "see_also": ["逆さま"],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        }
+    ]
+}

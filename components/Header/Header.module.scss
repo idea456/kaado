@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.62);
+    margin: 0;
+    display: flex;
+    align-items: center;
+
+    .logo {
+        font-weight: 800;
+        margin-right: auto;
+        margin-left: 20px;
+    }
+
+    .item {
+        margin: 2rem;
+        font-weight: 400;
+        font-size: 1.2rem;
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+
+        &:after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            transform: scaleX(0);
+            height: 2px;
+            bottom: 0;
+            left: 0;
+            background-color: $secondary-1;
+            transform-origin: bottom right;
+            transition: transform 0.25s ease-out;
+        }
+
+        &:hover:after {
+            transform: scaleX(1);
+            transform-origin: bottom left;
+        }
+    }
+}
