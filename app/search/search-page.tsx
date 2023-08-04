@@ -1,11 +1,9 @@
-'use client'
+'use client';
 
-import Search from "@/components/Search";
-import Masonry from "@/components/Masonry";
+import Search from '@/components/Search';
+import Masonry from '@/components/Masonry';
 
 export default function SearchPage() {
-
-
     return (
         <div>
             <Search />
