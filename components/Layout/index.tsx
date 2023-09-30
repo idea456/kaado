@@ -1,8 +1,6 @@
-'use client'
-
-import React from 'react'
-import Header from "@/components/Header";
-import styles from "./Layout.module.scss";
+import React from 'react';
+import Header from '@/components/Header';
+import styles from './Layout.module.scss';
 
 export default function Layout({ children }: React.PropsWithChildren<unknown>) {
     return (

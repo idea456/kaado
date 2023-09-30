@@ -1,13 +1,11 @@
-'use client';
-
-import Search from '@/components/Search';
-import Masonry from '@/components/Masonry';
+import Autocomplete from '@/components/Autocomplete';
 
 export default function SearchPage() {
     return (
         <div>
-            <Search />
-            <Masonry />
+            {/* <Search />
+            <Masonry /> */}
+            <Autocomplete />
         </div>
     );
 }
